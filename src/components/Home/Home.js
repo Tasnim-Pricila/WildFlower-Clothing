@@ -1,4 +1,5 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import useReview from '../../CustomHooks/useReview';
 import fashion from '../../images/fashion.jpg'
 import Review from '../Review/Review';
@@ -7,6 +8,7 @@ import Review from '../Review/Review';
 const Home = () => {
 
     const[reviews, setReviews] = useReview();
+    const navigate = useNavigate();
 
     return (
         <>
@@ -33,7 +35,7 @@ const Home = () => {
                                 </Review> )
                         }
                     </div>
-                    <button className='mt-8 mb-16 py-4 px-8 bg-yellow-200 font-semibold mx-auto block'> Read More </button>
+                    <button className='mt-8 mb-16 py-4 px-8 bg-yellow-200 font-semibold mx-auto block' onClick={() => navigate('/reviews')}> See All Reviews </button>
             </div>
         </>
         
