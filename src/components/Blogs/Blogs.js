@@ -5,12 +5,12 @@ import quesThree from '../../images/quesThree.jpg'
 
 const Blogs = () => {
     return (
-        <div className='px-56 flex flex-col gap-12 my-24'>  
-            <div className='grid grid-cols-3 gap-6 border shadow'>
+        <div className='px-4 lg:px-56 flex flex-col gap-12 my-24'>  
+            <div className='grid grid-cols-1 lg:grid-cols-3 gap-6 border shadow'>
                 <div className='p-6'>
                     <img src={quesOne} alt="" className='w-full h-full object-cover' />
                 </div>
-                <div className='col-span-2 p-6'>
+                <div className='lg:col-span-2 p-6'>
                     <h1 className='text-2xl mb-6  text-violet-600 font-bold'>
                         1.  What is Context API ?
                     </h1>
@@ -19,11 +19,11 @@ const Blogs = () => {
                     </p>
                 </div>
             </div>
-            <div className='grid grid-cols-3 gap-6 border shadow'>
+            <div className='grid grid-cols-1 lg:grid-cols-3 gap-6 border shadow'>
                 <div className='p-6'>
                     <img src={quesTwo} alt="" className='w-full h-full object-contain' />
                 </div>
-                <div className='col-span-2 p-6'>
+                <div className='lg:col-span-2 p-6'>
                     <h1 className='text-2xl mb-6  text-violet-600 font-bold'>
                         2. What is Semantic Tag? 
                     </h1>
@@ -32,11 +32,11 @@ const Blogs = () => {
                     </p>
                 </div>
             </div>
-            <div className='grid grid-cols-3 gap-6 border shadow'>
+            <div className='grid grid-cols-1 lg:grid-cols-3 gap-6 border shadow'>
                 <div className='p-6 flex items-center'>
-                    <img src={quesThree} alt="" className='h-80 object-contain' />
+                    <img src={quesThree} alt="" className='h-100 w-full object-contain' />
                 </div>
-                <div className='col-span-2 p-6'>
+                <div className='lg:col-span-2 p-6'>
                     <h1 className='text-2xl mb-6  text-violet-600 font-bold'>
                         3. Difference between Inline, Inline-block and Block Elements. 
                     </h1>
