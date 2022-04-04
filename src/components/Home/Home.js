@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import useReview from '../../CustomHooks/useReview';
 import fashion from '../../images/fashion.jpg'
 import Review from '../Review/Review';
-
+import './Home.css'
 
 const Home = () => {
 
@@ -12,9 +12,9 @@ const Home = () => {
 
     return (
         <>
-            <div className='flex md:flex-row flex-col items-center gap-x-36'>
-                <div className='md:basis-1/2 md:pl-36 px-10 text-center md:text-left'>
-                    <h1 className='text-6xl font-semibold leading-[4.5rem] text-fuchsia-400 uppercase'>
+            <div className='flex lg:flex-row flex-col items-center lg:gap-x-36 max-w-[100%] overflow-hidden'>
+                <div className='lg:basis-1/2 lg:pl-36 px-10 text-center lg:text-left'>
+                    <h1 className='text-4xl lg:text-6xl font-semibold lg:leading-[4.5rem] leading-10 text-fuchsia-400 uppercase'>
                         Make Yourself <br></br> The Unique One
                     </h1>
                     <p className='mt-8 text-xl mb-4 text-cyan-400 font-semibold'>
@@ -26,12 +26,12 @@ const Home = () => {
                         Explore More 
                     </button>
                 </div>
-                <div className='md:basis-1/2'>
-                    <img src={fashion} alt="Girl with Stylish Dress" className='w-2/3 mx-auto md:mx-0' />
+                <div className='lg:basis-1/2'>
+                    <img src={fashion} alt="Girl with Stylish Dress" className='lg:w-2/3 mx-auto lg:mx-0' />
                 </div>
             </div>
             <div>
-                <h2 className='text-5xl my-16 text-center text-fuchsia-600 font-medium'>
+                <h2 className='text-4xl lg:text-5xl my-16 text-center text-fuchsia-600 font-medium'>
                     What Our Customers Say !
                 </h2>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 md:px-16 px-4 text-center items-start mb-16'>
