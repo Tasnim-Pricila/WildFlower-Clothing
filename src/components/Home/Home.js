@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom';
 import useReview from '../../CustomHooks/useReview';
 import fashion from '../../images/fashion.jpg'
 import Review from '../Review/Review';
-import './Home.css'
 
 const Home = () => {
 
