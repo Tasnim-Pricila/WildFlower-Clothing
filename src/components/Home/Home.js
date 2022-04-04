@@ -15,8 +15,9 @@ const Home = () => {
             <div className='flex items-center gap-x-36'>
                 <div className='basis-1/2 pl-36'>
                     <h1 className='text-6xl font-semibold leading-[4.5rem] text-fuchsia-400'>Make Yourself <br></br> The Unique One</h1>
-                    <p className='mt-8 text-xl'>WildFlower Clothing, a brand of Bangladesh, has been a leading e-commerce. </p>
+                    <p className='mt-8 text-xl mb-4 text-cyan-400 font-semibold'>WildFlower Clothing, a brand of Bangladesh, has been a leading E-Commerce. </p>
                     <p>Marketplace in Bangladesh. Since it has been founded in 2000. </p>
+                    <p>WildFlower gives sellers a flexible and comprehensive sales solution and buyers a tremendous and stylish selection of clothes at competitive prices. </p>
                     <button className='mt-8 py-6 px-8 bg-yellow-200 font-semibold'> Explore More </button>
                 </div>
                 <div className='basis-1/2'>
