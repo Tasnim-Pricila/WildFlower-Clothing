@@ -1,9 +1,9 @@
-# [WildFlower Clothing]()
+# [WildFlower Clothing](https://wildflower-clothing.netlify.app/)
 
 
 ## Live Demo Link
 
-[http://localhost:3000](http://localhost:3000) 
+[https://wildflower-clothing.netlify.app/](https://wildflower-clothing.netlify.app/) 
 
 ## Project Description
 
