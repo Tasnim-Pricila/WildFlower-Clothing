@@ -25,7 +25,7 @@ const Home = () => {
             </div>
             <div>
                 <h2 className='text-5xl my-16 text-center'>What Our Customers say !</h2>
-                    <div className='grid grid-cols-3 gap-10 px-16 text-center'>
+                    <div className='grid grid-cols-3 gap-10 px-16 text-center items-start'>
                         {
                             reviews.slice(0,3).map(review => 
                                 <Review
