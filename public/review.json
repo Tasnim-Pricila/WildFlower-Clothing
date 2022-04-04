@@ -3,36 +3,42 @@
     "id": 1,
     "name": "Rhonda Mcbride",
     "description": "The seller was very pleasant to work with. The dress is just as beautiful as the pictures. I was worried about length because of my height but it's perfect. Delivery was sooner than expected.",
+    "rating": 4,
     "img": "https://img.freepik.com/free-photo/fashionable-charming-girl-checkered-dress-laughing-red-wall-photo-female-model-wearing-heart-shaped-glasses-wicker-bag_197531-14332.jpg?w=996"
   },
   {
     "id": 2,
     "name": "Garcia Carter",
     "description": "Lovely, lovely dress! Felt so comfortable! After I realized that I did not want the sparkle because I wanted to go a bit less fancy they accepted it back easily with no hassle. But I did want to keep it because it was so beautiful!",
+    "rating": 4.5,
     "img": "https://img.freepik.com/free-photo/profile-shot-aristocratic-girl-blouse-with-frill-lady-with-flowers-her-hair-posing-proudly-against-blue-wall_197531-14304.jpg?t=st=1649010380~exp=1649010980~hmac=a1025cf0bb1aaaf50ea6ad0cafb30040dede14f682a110a60122bc44f0bdc7b9&w=360"
   },
   {
     "id": 3,
     "name": "Lilian Calhoun",
     "description": "Loved this dress, lovely color and good quality. Some the sequences came off but I think they were extra because I couldn't find the missing spots on the dress. Too long for me and it would have cost too much to fix, so I had to return! Otherwise, great dress.",
+    "rating": 3.5,
     "img": "https://img.freepik.com/free-photo/smiling-positive-brunette-brown-eyed-lady-stylish-outfit-posing-beige-room_197531-14214.jpg?w=996"
   },
   {
     "id": 4,
     "name": "Peck Molina",
     "description": "This dress is heavy, but it is beautiful. I got it for my daughter's wedding, but it will be cool out, so not worried about that. I may see about getting the waist taken in just a little for a slightly better fit. Because it is heavy, it hangs straight down.",
+    "rating": 5,
     "img": "https://img.freepik.com/free-photo/cute-sexy-slim-girl-with-blond-curly-hair-standing-studio-with-blue-background-listenign-music-earphones-she-smiles-looks-sexy_197531-25072.jpg?w=996"
   },
   {
     "id": 5,
     "name": "William Maddox",
-    "description": "I ordered this dress for a mother of the groom dress, and it's very beautifully made. It was packed nicely and there were no sequins falling off, maybe a couple. It fits perfectly and it's beautiful, but I'm very disappointed in the color. It's shown as being rosy in the picture, but it looks light brown or dark beige. You can detect a very slight hint of rose, but that's all.",
+    "description": "I ordered this dress for a mother of the groom dress, and it's very beautifully made. It was packed nicely and there were no sequins falling off, maybe a couple. It fits perfectly and it's beautiful. It's shown as being rosy in the picture, but it looks light brown or dark beige. You can detect a very slight hint of rose, but that's all.",
+    "rating": 4,
     "img": "https://img.freepik.com/free-photo/cute-young-girl-with-dark-wavy-hairstyle-bright-makeup-silk-dress-black-jacket-holding-sunglasses-hands-looking-away-against-beige-building-wall_197531-24462.jpg?w=996"
   },
   {
     "id": 6,
     "name": "Bessie Nielsen",
-    "description": "This dress took ages to be delivered but when it finally got here my daughter was very happy to see it. On first appearance it did look lovely. Upon trying it on, the back where it laces up isn't a very good fit and the length is very long. I'm sure, fingers crossed it will be ok once I've had all the alterations done to it. Beautiful colour and design though. I'm sure my daughter will look amazing in it for her prom!",
+    "description": "This dress took ages to be delivered but when it finally got here my daughter was very happy to see it. On first appearance it did look lovely. I'm sure, fingers crossed it will be ok once I've had all the alterations done to it. Beautiful colour and design though. I'm sure my daughter will look amazing in it for her prom!",
+    "rating": 4.5,
     "img": "https://img.freepik.com/free-photo/cute-brunette-girl-standing-studio-smiling-widely-holding-blue-pink-balloons-she-wears-light-dotted-dress-black-glasses-has-braided-hair_197531-24806.jpg?w=996"
   }
 ]
