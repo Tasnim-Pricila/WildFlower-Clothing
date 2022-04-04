@@ -7,14 +7,13 @@
 
 ## Project Description
 
-
- Technologies Used :
+### **Technologies Used** :
 
 * HTML
 * CSS (Tailwind)
 * React JS
 
-About Project :
+### **About Project** :
 
 * This is a Single-Page-Application website.
 * In this project there are five pages. They are Home, Reviews, Dashboard, Blogs and About page.
