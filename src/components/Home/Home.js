@@ -30,7 +30,7 @@ const Home = () => {
                 </div>
             </div>
             <div>
-                <h2 className='text-4xl lg:text-5xl my-16 text-center text-fuchsia-600 font-medium'>
+                <h2 className='text-4xl lg:text-5xl my-16 text-center text-fuchsia-600 font-medium '>
                     What Our Customers Say !
                 </h2>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 md:px-16 px-4 text-center items-start mb-16'>
