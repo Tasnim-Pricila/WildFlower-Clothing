@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => {
     return (
         <>
-            <div className='w-full text-xl font-semibold pt-8 pb-4 mb-12 uppercase text-center md:block flex flex-col gap-2 bg-amber-200 md:bg-transparent'>
+            <div className='w-full text-xl font-semibold pt-8 pb-4 mb-8 uppercase text-center md:block flex flex-col gap-2 bg-amber-200 md:bg-transparent'>
                 <NavLink to ="/" className={({isActive}) => (isActive ? "md:mr-10 active-link" : "md:mr-10 nav-link")}>
                     Home 
                 </NavLink>

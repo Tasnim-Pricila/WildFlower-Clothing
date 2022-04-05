@@ -11,7 +11,7 @@ const Home = () => {
 
     return (
         <>
-            <div className='flex lg:flex-row flex-col items-center lg:gap-x-36 max-w-[100%] overflow-hidden'>
+            <div className='flex lg:flex-row flex-col items-center lg:gap-x-24 max-w-[100%] overflow-hidden'>
                 <div className='lg:basis-1/2 lg:pl-36 px-10 text-center lg:text-left'>
                     <h1 className='text-4xl lg:text-6xl font-semibold lg:leading-[4.5rem] leading-10 text-fuchsia-400 uppercase'>
                         Make Yourself <br></br> The Unique One
