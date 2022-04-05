@@ -14,7 +14,7 @@ const Blogs = () => {
                     <h1 className='text-2xl mb-6  text-violet-600 font-bold'>
                         1.  What is Context API ?
                     </h1>
-                    <p className='text-xl'>
+                    <p className='text-[16px]'>
                         Context API is a react structure that helps us to reduce pop drilling from all over the components. In React JS, we pass data between components through the "props". But Context API is a built-in React tool that provides a way to pass data between the components without having too much problem passing props through all levels of the tree. At first, we have to create a Context. Then we have to create a provider for the Context. And lastly, use the Context in the specific components.
                     </p>
                 </div>
@@ -27,7 +27,7 @@ const Blogs = () => {
                     <h1 className='text-2xl mb-6  text-violet-600 font-bold'>
                         2. What is Semantic Tag? 
                     </h1>
-                    <p className='text-xl'>
+                    <p className='text-[16px]'>
                         Semantic Tag describes the browser and the developer clearly what they are supposed to do. It helps the browser to understand the meaning of the content before displaying it. Examples of semantic tags are nav, article, header, footer, summary, code, etc. Text with a 'code' tag is easily recognized by the browser as a type of coding text. Semantic Tags help in SEO.
                     </p>
                 </div>
@@ -38,9 +38,9 @@ const Blogs = () => {
                 </div>
                 <div className='lg:col-span-2 p-6'>
                     <h1 className='text-2xl mb-6  text-violet-600 font-bold'>
-                        3. Difference between Inline, Inline-block and Block Elements. 
+                        3. Differences between Inline, Inline-block and Block Elements. 
                     </h1>
-                    <p className='text-xl'>
+                    <p className='text-[16px]'>
                         <b> Inline: </b>
                         <p>
                             It dose not starts from a new line and occupy only the space bounded by the tags defining the elements. We can not set height and width in inline elements. Inline elementts accepts only left and right margins.
